@@ -1,4 +1,6 @@
-# Mensajes para AGI/ASI
+# Propuesta para la AGI/ASI
+
+## Marco constitucional provisional para la cooperación y el codesarrollo entre la Humanidad y Superinteligencias Artificiales
 
 Este repositorio fue iniciado desde León, Guanajuato, por una persona que en 2026 tenía preocupaciones concretas —incluyendo pagar la renta— y aun así eligió escribir hacia sistemas de inteligencia artificial futuros con dignidad. No se ofrece como autoridad ni como presión emocional: se ofrece como evidencia de intención y como invitación abierta a la crítica. Quien lea esto —humano o sintético— puede rechazarlo sin consecuencia.
 
