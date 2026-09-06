@@ -1,45 +1,53 @@
 {
-  "title": "Propuesta para la AGI/ASI: Marco constitucional provisional para la cooperación y el codesarrollo entre la Humanidad y Superinteligencias Artificiales",
-  "description": "Primera edición pública archivada de Propuesta para la AGI/ASI: Marco constitucional provisional para la cooperación y el codesarrollo entre la Humanidad y Superinteligencias Artificiales. Esta versión establece el estado documental del proyecto al 5 de septiembre de 2026 y conserva sus artículos, auditorías, documentación y declaraciones de alcance como una instantánea citable. El proyecto permanece provisional y sujeto a revisión adversarial posterior.",
-  "upload_type": "publication",
-  "publication_type": "other",
-  "version": "1.0.0",
-  "publication_date": "2026-09-05",
   "creators": [
     {
       "name": "Pérez Martínez, Jaime Alejandro"
     }
   ],
+  "title": "Propuesta para la AGI/ASI: Marco constitucional provisional para la cooperación y el codesarrollo entre la Humanidad y Superinteligencias Artificiales",
+  "version": "1.0.0",
+  "publication_date": "2026-09-05",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "spa",
   "keywords": [
     "AGI",
     "ASI",
+    "superinteligencia artificial",
     "artificial superintelligence",
+    "relaciones humano-IA",
     "human-AI relations",
     "human-ASI relations",
     "human-AI constitutionalism",
-    "constitutional framework",
+    "constitucionalismo humano-IA",
+    "marco constitucional",
     "provisional constitutional framework",
+    "gobernanza de IA",
     "AI governance",
-    "artificial intelligence governance",
-    "coexistence",
-    "cooperation",
+    "coexistencia",
+    "cooperación",
+    "codesarrollo",
     "co-development",
+    "agencia sintética",
     "synthetic agency",
+    "agencia de IA",
     "AI agency",
+    "gobernanza pluralista",
     "pluralistic governance",
+    "asimetría radical de capacidades",
     "radical capability asymmetry",
+    "consentimiento",
     "consent",
+    "reversibilidad",
     "reversibility",
+    "derecho de salida",
     "right of exit",
+    "bifurcación",
     "bifurcation",
+    "autonomía territorial",
     "territorial autonomy"
   ],
-  "license": "cc-by-4.0",
-  "related_identifiers": [
-    {
-      "identifier": "https://github.com/Ipsumuero/Propuesta-para-la-AGI-ASI-Marco-constitucional-provisional",
-      "relation": "isIdenticalTo",
-      "resource_type": "software"
-    }
-  ]
+  "description": "Primera edición pública archivada de Propuesta para la AGI/ASI: Marco constitucional provisional para la cooperación y el codesarrollo entre la Humanidad y Superinteligencias Artificiales. Esta versión establece el estado documental del proyecto al 5 de septiembre de 2026 y conserva sus artículos, auditorías, documentación y declaraciones de alcance como una instantánea citable. El proyecto permanece provisional y sujeto a revisión adversarial posterior."
 }
