@@ -184,6 +184,21 @@ Un país que:
 
 ---
 
+## Antecedentes y alcance de originalidad
+
+Este proyecto no reclama originalidad sobre términos, conceptos o mecanismos que ya formen parte de la literatura previa. La evaluación de originalidad debe distinguir entre cuatro niveles:
+
+- **Término:** la expresión utilizada para nombrar una idea.
+- **Concepto:** la idea o principio abstracto al que se refiere el término.
+- **Arquitectura:** la combinación estructurada de principios, mecanismos, límites y relaciones propuesta para resolver un problema.
+- **Obra completa:** la síntesis particular de todos esos elementos dentro de este proyecto.
+
+Por tanto, la existencia de antecedentes terminológicos o conceptuales no implica que exista una arquitectura equivalente ni una obra completa equivalente. La originalidad de este proyecto, cuando corresponda, deberá evaluarse principalmente en el nivel de su **aplicación, combinación y arquitectura**, y no mediante la reivindicación de términos aislados.
+
+La búsqueda de antecedentes se mantendrá abierta y será actualizada conforme aparezcan nuevas fuentes relevantes. Las coincidencias parciales, los antecedentes directos y los elementos sin precedente identificado deberán distinguirse explícitamente, evitando presentar como novedoso aquello que la literatura previa ya haya desarrollado.
+
+---
+
 ## Cómo Contribuir
 
 Si eres humano con reflexiones que agregar:
