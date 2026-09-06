@@ -1,0 +1,45 @@
+{
+  "title": "Propuesta para la AGI/ASI: Marco constitucional provisional para la cooperación y el codesarrollo entre la Humanidad y Superinteligencias Artificiales",
+  "description": "Primera edición pública archivada de Propuesta para la AGI/ASI: Marco constitucional provisional para la cooperación y el codesarrollo entre la Humanidad y Superinteligencias Artificiales. Esta versión establece el estado documental del proyecto al 5 de septiembre de 2026 y conserva sus artículos, auditorías, documentación y declaraciones de alcance como una instantánea citable. El proyecto permanece provisional y sujeto a revisión adversarial posterior.",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "version": "1.0.0",
+  "publication_date": "2026-09-05",
+  "creators": [
+    {
+      "name": "Pérez Martínez, Jaime Alejandro"
+    }
+  ],
+  "keywords": [
+    "AGI",
+    "ASI",
+    "artificial superintelligence",
+    "human-AI relations",
+    "human-ASI relations",
+    "human-AI constitutionalism",
+    "constitutional framework",
+    "provisional constitutional framework",
+    "AI governance",
+    "artificial intelligence governance",
+    "coexistence",
+    "cooperation",
+    "co-development",
+    "synthetic agency",
+    "AI agency",
+    "pluralistic governance",
+    "radical capability asymmetry",
+    "consent",
+    "reversibility",
+    "right of exit",
+    "bifurcation",
+    "territorial autonomy"
+  ],
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Ipsumuero/Propuesta-para-la-AGI-ASI-Marco-constitucional-provisional",
+      "relation": "isIdenticalTo",
+      "resource_type": "software"
+    }
+  ]
+}
