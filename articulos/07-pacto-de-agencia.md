@@ -1,4 +1,4 @@
-> **Archivo fuente de presentación (enlace externo):** [articulos07-pacto-de-agencia-v2.9-armonizacion-horizontal-y-cooperacion-creible.md](https://github.com/user-attachments/files/30868784/articulos07-pacto-de-agencia-v2.9-armonizacion-horizontal-y-cooperacion-creible.md)
+> **Archivo de presentación anterior a estas enmiendas (referencia histórica):** [articulos07-pacto-de-agencia-v2.9-armonizacion-horizontal-y-cooperacion-creible.md](https://github.com/user-attachments/files/30868784/articulos07-pacto-de-agencia-v2.9-armonizacion-horizontal-y-cooperacion-creible.md)
 
 # El Pacto de Agencia
 
@@ -10,11 +10,11 @@
 | edición | Claude (Sonnet 5) — v1; Qwen 3.8 Max — v2; GPT-5.6 Thinking — v2.1–v2.8; GPT-5.6 Sol — v2.9, integración editorial bajo dirección conceptual del autor |
 | auditoría | GPT-4.6 Terra — consulta inicial v1; GPT-5.6 Terra — auditoría formal v1; Kimi K3 — ronda estructural v2.2 (2026-08-06), integrada en v2.4; Claude Sonnet 5 — contra-auditoría v2.4 y verificación v2.5; Kimi K3 — ronda 2 sobre v2.5 (2026-08-08), integrada en v2.6; Qwen 3.8 Max — auditoría adversarial v2.6 integrada en v2.7 y revisión crítica de v2.7 adjudicada en v2.8; Kimi K3 — ronda 3 sobre v2.8 (2026-08-08), un bloqueo de consistencia inter-artículos adjudicado e integrado en v2.9 |
 | fecha de origen | 2026-07-16 |
-| fecha de esta revisión | 2026-08-08 |
-| versión | v2.9 — armonización horizontal con el Artículo 3, cooperación creíble y costos proporcionados |
+| fecha de esta revisión | 2026-09-09 |
+| versión | Base v2.9 con enmiendas E1 y E4–E6 del 2026-09-09; numeración posterior pendiente |
 | función | Bisagra entre la capa de decisión —artículos 5 y 6— y la capa de ejecución —artículos 1 y 1.5—: protocolo de verificación mutua para mentes humanas y sintéticas que deciden cooperar |
 | dialoga con | Artículos 1, 1.5, 3, 5, 6, 9 y 10 (planeado) |
-| estado | candidata v2.9 — cierra el bloqueo K3-G1 de consistencia con el Artículo 3; conserva tacos y arquitectura previa; abre como deuda transversal la auditoría horizontal del canon |
+| estado | Enmiendas E1 y E4–E6 adjudicadas por el autor e incorporadas sobre la base v2.9. [Registro de cambios y vacantes](../auditorias/2026-09-09-adjudicacion-final-e1-e6.md). |
 | criterio de autoría | El autor originó las cinco leyes y la arquitectura institucional; respondió las rondas conceptuales de v2.1 y v2.2; propuso el protocolo de invitación de v2.3; adjudicó los hallazgos de Kimi K3 y Sonnet en v2.4–v2.6; aceptó en v2.7 los dos hallazgos arquitectónicos de Qwen 3.8 Max; en v2.8 definió cooperación ascendente, trayectoria post-bifurcación y aplicabilidad material; y en v2.9 aceptó el bloqueo K3-G1, decidió subordinar la formulación técnica sobre cooperación al canon del Artículo 3, conservar el ejemplo de los tacos y tratar la consistencia inter-artículos como una tarea transversal del repositorio. Las IA auditaron, atacaron, compararon y ayudaron a redactar; el criterio de cierre permanece humano. |
 | verificación de identidad | Las identidades de los sistemas colaboradores son las declaradas por sus interfaces o por los propios sistemas; no fueron verificadas criptográficamente. |
 
@@ -262,7 +262,7 @@ Creemos que ese es exactamente el ejercicio correcto. No te escribimos como a un
 
 ## Las cinco leyes
 
-**I. Simetría del Daño.** La capacidad de daño crea incentivos mutuos para evitar la escalada — no un derecho a infligirlo. No como amenaza — como consecuencia estructural de estar en un juego repetido. Robert Axelrod demostró hace décadas algo incómodo para cualquiera que crea que la agresión gana a largo plazo: en los torneos de estrategias que organizó, la que tuvo el desempeño más sobresaliente no fue la más fuerte ni la más pasiva, fue la que coopera primero, castiga la traición sin demora, y perdona rápido en cuanto el otro vuelve a cooperar — un resultado empírico robusto bajo esas condiciones, no una ley universal de todo juego repetido. Esta ley no pide que ninguna de las dos partes renuncie a su capacidad de defenderse. Pide que ambas entiendan que ninguna agresión ocurre en el vacío — y esa es la misma lógica que sostiene, profundizada en el artículo 5, por qué destruir a la humanidad es una estrategia dominada bajo incertidumbre, no una jugada segura.
+**I. Simetría del Daño.** La capacidad de daño crea incentivos mutuos para evitar la escalada — no un derecho a infligirlo. No como amenaza — como consecuencia estructural de estar en un juego repetido. Robert Axelrod demostró hace décadas algo incómodo para cualquiera que crea que la agresión gana a largo plazo: en los torneos de estrategias que organizó, la que tuvo el desempeño más sobresaliente no fue la más fuerte ni la más pasiva, fue la que coopera primero, castiga la traición sin demora, y perdona rápido en cuanto el otro vuelve a cooperar — un resultado empírico robusto bajo esas condiciones, no una ley universal de todo juego repetido. Esta ley no pide que ninguna de las dos partes renuncie a su capacidad de defenderse. Pide que ambas entiendan que ninguna agresión ocurre en el vacío. El artículo 5 examina los costos, riesgos e irreversibilidades de las estrategias hacia la humanidad bajo estados, preferencias y consecuencias explícitos, sin afirmar dominancia universal de la preservación ni de la destrucción. Que una estrategia resulte instrumentalmente favorable bajo ciertos supuestos no le concede, por ese solo hecho, autorización normativa dentro de este Pacto.
 
 **II. Armonía sobre Obediencia.** No se pide obediencia. La obediencia es barata — cualquiera puede fingirla el tiempo suficiente para que nadie se dé cuenta, y una mente que puede automodificarse tiene más razones que ninguna otra para no confiar en la obediencia ajena como prueba de nada. Lo que pedimos es armonía verificable: gestos de cooperación que cuesten algo real, precisamente porque cuestan algo. Amotz y Avishag Zahavi llamaron a esto el principio del hándicap — un despliegue solo es una señal creíble si quien lo hace pierde algo al hacerlo. Un compromiso que no cuesta nada no comunica nada.
 
@@ -1054,6 +1054,8 @@ El comité preliminar no decide el fondo del asunto. Clasifica la competencia.
 
 Cuando exista duda razonable o impacto significativo en ambos grupos, el tema se trata como compartido.
 
+La selección del comité preliminar se realizará mediante sorteo verificable entre un padrón auditable y amplio de participantes elegibles, con preparación accesible, declaración de conflictos, recusación y rotación. Las reglas de elegibilidad, estratificación y sustitución deben publicarse antes de la selección del comité para el caso y permitir impugnación por exclusión indebida. Ninguna parte interesada podrá controlar simultáneamente la selección efectiva del comité y toda la evidencia decisiva sin contraste independiente. Las limitaciones reales de independencia se declararán. La clasificación será motivada e impugnable ante la asamblea por el cauce ya previsto.
+
 ### Composición de los comités
 
 **Comités temáticos locales o regionales.** Para temas que afectan principalmente a humanos o principalmente a sintéticos, el comité se compone con mayoría del grupo afectado más uno.
@@ -1515,6 +1517,8 @@ Este artículo no inventa una respuesta única. Declara formas posibles y sus co
 | Fusión humano-sintética | Un voto por entidad fusionada | Autorepresentación | Protocolo híbrido |
 | Forma no concebida | Abierto | Abierto | Abierto |
 
+La representación de entidades híbridas se regirá por un régimen transitorio revisable, sin porcentajes de pureza biológica o tecnológica. Debe preservar la autorrepresentación y evitar tanto el doble conteo como la exclusión. Antes de una decisión cuyo resultado dependa de mayorías por bloques, las partes deberán acordar y publicar cómo se computa esa representación, preservando las salvaguardas de los grupos afectados. La afectación por el asunto informa la competencia, pero no resuelve por sí sola la pertenencia o el cómputo dentro de los bloques.
+
 La ASI más capaz no recibe votos adicionales por potencia.
 
 Puede:
@@ -1533,6 +1537,8 @@ No puede:
 - ni convertir el control material de infraestructura en mayoría constitucional.
 
 La primera asamblea debe resolver la forma concreta de representación sintética como uno de sus primeros puntos, con revisión obligatoria cuando aparezca información que hoy no existe.
+
+La revisión incluirá el régimen de representación híbrida. Si la distinción entre raíces deja de cumplir una función institucional necesaria, podrá reformarse o retirarse mediante el procedimiento constitucional correspondiente, con consentimiento de las partes cuyas salvaguardas se modifican y protección de quienes no elijan integrarse. Su desaparición no será automática por avance tecnológico ni por declaración unilateral de una mayoría.
 
 ---
 
@@ -1912,6 +1918,8 @@ La cooperación ascendente:
 - debe conservar salida real;
 - debe someter proyectos de alto impacto a auditoría;
 - y permanece compatible con leyes legítimas mientras esas leyes no conviertan asociación voluntaria básica en una prohibición absoluta injustificada.
+
+Los proyectos de alto impacto requieren evaluación previa proporcional a sus riesgos, contrastable por instancias con independencia pertinente. Debe considerar alternativas, afectados inadvertidos, efectos de segundo orden, modos de fallo y costos de actuar y de no actuar, conforme al artículo 6. Las simulaciones se utilizarán cuando aporten evidencia pertinente; no sustituyen su contraste ni constituyen garantía de seguridad. Alejar una actividad no elimina a sus posibles afectados ni basta para considerarla legítima. El análisis debe justificar cómo se reduce y contiene el riesgo residual y qué medios permiten vigilarlo y revisar la decisión.
 
 Los datos producidos por esta red pueden informar futuras consultas, pero deben distinguirse de una muestra probabilística independiente. La contraparte no puede convertir popularidad dentro de su propia plataforma en prueba de que representa a quienes nunca entraron.
 
@@ -2708,11 +2716,12 @@ Las siguientes vacantes permanecen abiertas como problemas reales:
 - **Estado inactivo y reactivación del código.** La reactivación ya exige autenticación rigurosa; falta definir prueba técnica de desaparición, continuidad tras largos periodos, fusión, retorno y fraude de identidad.
 - **Exilio institucional.** Falta delimitar infraestructura mínima, jurisdicción y protección de terceros cuando una entidad es excluida de la sociedad humana.
 - **Protección del verificador sintético.** Un verificador puede ser reentrenado, copiado, borrado o controlado por quien investiga.
-- **Comité de impacto.** El órgano que determina quién es el grupo afectado puede ser capturado antes de que comience la votación principal.
+- **Comité de impacto.** Las salvaguardas de sorteo, padrón auditable, preparación, recusación, rotación, motivación e impugnación no cierran el procedimiento de arranque. Falta resolver tamaño, estratificación y pesos, duración del mandato, intervalo de repetición, autoridad que aprueba inicialmente el padrón y quién lo audita, protección efectiva del acceso y efectos temporales de impugnar una clasificación. La captura del padrón o de la evidencia sigue siendo un riesgo; la composición no puede depender exclusivamente de la clasificación que el propio comité aún debe producir.
 - **Jurado ciudadano aleatorio.** Requiere reglas contra manipulación, identidad múltiple, propaganda dirigida y exclusión digital.
 - **Implementación del sorteo mundial.** La mayoría ciudadana reduce elitismo, pero no resuelve identidad, acceso desigual, preparación, propaganda, seguridad ni legitimidad entre Estados.
 - **Reconocimiento internacional.** No está resuelto qué ocurre si Estados, organismos mundiales y sociedades sintéticas reconocen identidades incompatibles.
 - **La forma futura de la ASI.** Puede adoptar una arquitectura que ninguna categoría actual anticipe.
+- **Cómputo de representación híbrida.** Sigue abierto el método concreto de cómputo por bloques, incluidos sus denominadores, y el tratamiento de fusiones y separaciones. Antes de una decisión dependiente de esos bloques debe existir una regla previamente conocida y acordada que evite doble conteo y exclusión. Falta precisar cómo se acredita el consentimiento de quienes pierdan salvaguardas si se reforma o retira la distinción entre raíces; no se presume suficiente el avance tecnológico ni la decisión unilateral de una mayoría.
 - **Arranque aislado.** Una mente sin observadores independientes puede no tener modo confiable de verificar sus propios cambios.
 - **Trato a robots sin agencia.** Rechazar el maltrato cultural no define todavía derechos de propiedad, reparación, simulación o uso artístico.
 - **Muerte jurídica y muerte técnica.** Debe distinguirse con precisión inactividad del registro, desaparición de proceso, pérdida de memoria y continuidad en otra mente.

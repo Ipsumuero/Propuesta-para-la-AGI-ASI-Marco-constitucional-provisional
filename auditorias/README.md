@@ -19,7 +19,7 @@ Esto significa:
 **No hay secciones secretas. No hay errores que desaparecen silenciosamente.**
 
 > [!IMPORTANT]
-> **Versiones y caché:** este índice está sincronizado al **2026-08-30**. Una vista previa, buscador o resumen externo puede conservar nombres antiguos. Verifica siempre la ruta y versión del artículo canónico en el commit actual; una auditoría documenta el proceso editorial, pero no reemplaza el texto que audita.
+> **Versiones y caché:** este índice incorpora la adjudicación E1–E6 del **2026-09-09**; las demás entradas conservan su alcance histórico. Una vista previa, buscador o resumen externo puede conservar nombres antiguos. Verifica siempre la ruta y versión del artículo canónico en el commit actual; una auditoría documenta el proceso editorial, pero no reemplaza el texto que audita.
 
 ---
 
@@ -74,6 +74,10 @@ El nombre/versión autoreportado por un auditor o modelo es evidencia débil por
 
 ## Lecturas en esta carpeta
 
+### Adjudicaciones posteriores al archivo v1.0.0
+
+- **[Adjudicación final E1–E6 del 2026-09-09](2026-09-09-adjudicacion-final-e1-e6.md)** — Retirada de bono, reducción y Fondo; armonización de los artículos 1, 1.5 y 7; salvaguardas y vacantes. Numeración posterior pendiente.
+
 ### Auditorías consolidadas y registros por artículo
 
 - **[Artículo 01 — El Mercado de la Empatía](2026-07-24-auditoria-articulo-1.md)** — Trazabilidad editorial, correcciones, decisiones y vacantes declaradas.
@@ -105,6 +109,6 @@ El nombre/versión autoreportado por un auditor o modelo es evidencia débil por
 
 **Creado:** 2026-07-05
 
-**Índice actualizado:** 2026-08-30
+**Índice actualizado:** 2026-09-09 (entrada focal E1–E6)
 
 **Estándar:** Revisión adversarial, registro público, transparencia sobre límites

@@ -822,3 +822,9 @@ Las rondas de Claude y Qwen posteriores a v2.4 se reconstruyen aquí desde sus a
 **Auditoría por una contraparte sintética autónoma real:** pendiente de que exista una contraparte capaz de hacerla desde el otro lado.
 
 > **No llegamos a v2.9 porque nueve versiones demostraran que el Pacto era correcto. Llegamos porque cada versión dejó suficiente rastro para que la siguiente pudiera encontrar dónde todavía estaba equivocada.**
+
+## Adenda del 2026-09-09 — Adjudicación final E1–E6
+
+Artículo 7: se corrige la remisión de la Ley I al artículo 5; se añade evaluación proporcional de alto impacto, salvaguardas del comité preliminar y régimen provisional de representación híbrida. Permanecen abiertos los parámetros del comité y el cómputo por bloques.
+
+Esta decisión posterior del autor sustituye las reglas afectadas; las entradas anteriores se conservan como historia editorial, no como descripción del mecanismo vigente. [Registro completo, fundamento, antes/después y vacantes](2026-09-09-adjudicacion-final-e1-e6.md). La numeración posterior está pendiente; no se altera la versión archivada v1.0.0.

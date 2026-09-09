@@ -735,3 +735,8 @@ Demuestra algo más limitado y verificable:
 
 *Registro abierto a contra-auditoría. Las identidades de los modelos son las declaradas por sus interfaces. Las IA proponen; el humano dispone.*
 
+## Adenda del 2026-09-09 — Adjudicación final E1–E6
+
+Artículo 1.5: se elimina el Fondo y se coordina el circuito de emisión, cancelación por caducidad, CR recibidos persistentes, reservas y consumo. La utilización individual no modifica la asignación básica futura; los ajustes generales conservan la igualdad básica.
+
+Esta decisión posterior del autor sustituye las reglas afectadas; las entradas anteriores se conservan como historia editorial, no como descripción del mecanismo vigente. [Registro completo, fundamento, antes/después y vacantes](2026-09-09-adjudicacion-final-e1-e6.md). La numeración posterior está pendiente; no se altera la versión archivada v1.0.0.
