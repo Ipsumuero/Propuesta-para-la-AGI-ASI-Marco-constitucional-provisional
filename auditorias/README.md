@@ -76,7 +76,7 @@ El nombre/versión autoreportado por un auditor o modelo es evidencia débil por
 
 ### Adjudicaciones posteriores al archivo v1.0.0
 
-- **[Adjudicación final E1–E6 del 2026-09-09](2026-09-09-adjudicacion-final-e1-e6.md)** — Retirada de bono, reducción y Fondo; armonización de los artículos 1, 1.5 y 7; salvaguardas y vacantes. Numeración posterior pendiente.
+- **[Adjudicación final E1–E6 del 2026-09-09](2026-09-09-adjudicacion-final-e1-e6.md)** — Antecedentes y adjudicación de bono, reducción y Fondo; cambios de los artículos 1, 1.5 y 7; restauración de históricos y regla genealógica de IEvA. Numeración posterior pendiente.
 
 ### Auditorías consolidadas y registros por artículo
 

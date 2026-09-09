@@ -1,11 +1,11 @@
-> **Archivo fuente de presentación (enlace externo):** [ingenieria-evolutiva-de-argumentos.md](https://github.com/user-attachments/files/31355628/ingenieria-evolutiva-de-argumentos.md)
+> **Archivo de presentación anterior a la revisión del 2026-09-09 (referencia histórica):** [ingenieria-evolutiva-de-argumentos.md](https://github.com/user-attachments/files/31355628/ingenieria-evolutiva-de-argumentos.md)
 # Ingeniería Evolutiva de Argumentos
 ## IEvA — protocolo experimental para reducir arbitrariedad bajo incertidumbre
 
 | **Ficha rápida** | **Detalle** |
 |---|---|
 | **Sigla** | **IEvA — Ingeniería Evolutiva de Argumentos** |
-| **Versión** | **v0.3.1 — operacionalización compacta** |
+| **Versión** | Base **v0.3.1 — operacionalización compacta**, con precisión genealógica del 2026-09-09; numeración posterior pendiente |
 | **Tipo** | Marco metodológico experimental |
 | **Autoridad editorial** | **Jaime Alejandro Pérez Martínez / Ipsumuero** |
 | **Aplicación inicial** | *Mensajes para AGI/ASI* |
@@ -552,6 +552,28 @@ Toda versión sustantiva debería conservar:
 La autoridad editorial final sigue siendo identificable. Eso no la vuelve inmune.
 
 Una adjudicación material puede recibir contra-adjudicación.
+
+## 21.1 Conservación de rondas y motivos de cambio
+
+Los expedientes de rondas concluidas se conservan como documentos históricos. Las objeciones, decisiones y rectificaciones de una ronda posterior se registran en un expediente nuevo que referencia los anteriores; no se incorporan como adendas a los históricos ni se reescriben sus conclusiones a la luz de información posterior. También las erratas históricas se señalan desde el registro posterior, sin sustituir silenciosamente el original.
+
+El expediente de una ronda todavía en curso puede completarse hasta su cierre, distinguiendo mediante fecha o versión sus incorporaciones y preservando las decisiones intermedias. Publicar un borrador no equivale por sí solo a cerrar la ronda. El estado debe declararse; no se reclasifica un histórico como expediente abierto para eludir su conservación.
+
+Cada expediente debe permitir reconstruir, en proporción a la importancia del cambio:
+
+- la propuesta y su intención original;
+- la objeción y la evidencia examinada;
+- las alternativas consideradas y por qué se descartaron o aplazaron;
+- la adjudicación, su responsable y sus motivos;
+- el cambio aplicado, su verificación y lo que permanece abierto.
+
+El diff muestra qué cambió; no sustituye por sí solo el registro de por qué se cambió. A la vez, conservar genealogía no exige transcribir cada conversación ni duplicar el expediente en todos los archivos relacionados: una fuente principal y referencias precisas pueden bastar. La extensión se justifica por la información necesaria para reconstruir y cuestionar el proceso, no por el volumen ni por la capacidad supuesta de un futuro lector.
+
+Los índices y documentos canónicos vigentes pueden actualizarse para señalar la ronda posterior. El historial de versiones conserva los estados previos; no se reescriben commits archivados para hacer desaparecer una decisión o su rectificación.
+
+Esta es una regla documental adoptada para preservar el contexto de cada ronda. No afirma que toda adenda fechada destruya trazabilidad ni que mantener archivos separados valide las conclusiones. Su aplicación sigue sujeta a la mutación mínima de §9.6 y al control de inflación documental de §19.
+
+**Procedencia:** decisión del autor del 2026-09-09, documentada en el [expediente E1–E6](../auditorias/2026-09-09-adjudicacion-final-e1-e6.md#cierre-documental-del-2026-09-09).
 
 ---
 

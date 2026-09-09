@@ -1,6 +1,6 @@
 # Adjudicación final del autor e incorporación de E1–E6
 
-**Fecha:** 2026-09-09. **Estado:** cambios autorizados por el autor e incorporados; numeración de la siguiente versión pendiente.
+**Fecha:** 2026-09-09. **Estado:** expediente de la ronda E1–E6 completado con cierre documental adjudicado por el autor el mismo día; cambios canónicos incorporados y numeración posterior pendiente. La incorporación inicial y la rectificación documental se distinguen a continuación; no se reescriben sus motivos.
 
 **Base comprobada:** `main` en `8505e9151b7d98e8b9726148912dd8a244cd7a91`, coincidente con el commit archivado consultado. Esta revisión crea historia posterior: no modifica retroactivamente `v1.0.0`, su commit ni Zenodo.
 
@@ -17,6 +17,22 @@
 
 Esta adjudicación sustituye la propuesta previa de conservar la asignación adaptativa como hipótesis pendiente: no se la introduce como regla ni como experimento autorizado en el canon. También vuelve innecesaria la redacción candidata que conservaba el Fondo para financiar bonos.
 
+## Antecedentes y evolución de las decisiones
+
+**Incorporación al cierre del expediente, 2026-09-09.** Esta síntesis reconstruye los antecedentes disponibles en el dictamen E1–E6 y en las propuestas y adjudicaciones aportadas por el autor. No es una transcripción de todas las sesiones ni una nueva auditoría independiente.
+
+**E1.** La revisión del Concentrado detectó que la Ley I del artículo 7 aún remitía a una conclusión estratégica retirada por el artículo 5. El autor aceptó corregir esa propagación, con una condición: comparar conveniencia estratégica no debía convertirse en autorización normativa del daño. La redacción aceptada conserva esa separación y no modifica las otras cuatro leyes.
+
+**E2.** El autor explicó que la reducción por baja utilización pretendía ajustar la distancia entre CR nominales y efectivamente distribuidos, no castigar la abstención. Propuso estudiar ajustes graduales, reversibles y limitados, sin canonizar cifras. El dictamen distinguió medir circulación de redistribuir voz: la utilidad de lo primero no demostraba la necesidad de lo segundo. También examinó donaciones rituales, concentración, desigual disponibilidad de tiempo y recuperación de capacidad. Inicialmente recomendó mantener la adaptación como vacante experimental. Después, el autor decidió retirar el mecanismo y también el bono para simplificar la asignación básica. Esta retirada fue una adjudicación posterior, no una conclusión que hubiera estado presente desde el comienzo.
+
+**E3.** La propuesta inicial buscaba aclarar entradas y salidas del Fondo. El cotejo mostró además que el artículo 1.5 solo admitía como ingreso los CR no asignados al cierre; abonar futuras reducciones requería una decisión contable adicional. Al retirarse bono y reducción, el autor pidió comprobar primero si el Fondo conservaba una función independiente necesaria. Las reglas de particiones y jurados regulaban su distribución, pero no ofrecían otro destino necesario. Se optó por suprimirlo y registrar la caducidad sin redistribución. La información del uso real, la persistencia de CR recibidos y la destrucción por consumo se conservaron.
+
+**E4.** El autor propuso sujetar la cooperación al orden jurídico y evaluar proporcionalmente los proyectos de alto impacto, explorando entornos con menos externalidades. El dictamen señaló que una obediencia absoluta a cualquier prohibición estatal alteraría la reserva del artículo 7 frente a prohibiciones injustificadas de asociación básica. Se aceptó armonizar ambas protecciones sin conceder a ninguna parte una autoexención unilateral. La simulación quedó como evidencia pertinente, no garantía; la distancia geográfica no elimina a los afectados. Los posibles entornos extraterrestres permanecieron como ejemplos de investigación, sin introducir una regla constitucional específica.
+
+**E5.** El autor propuso sorteo, elegibilidad y rotación para evitar captura del clasificador previo a la votación. El cotejo encontró antecedentes de sorteo e impugnación, pero no una composición específica ya resuelta para ese comité. Se aceptaron garantías de padrón auditable, acceso, recusación y contradicción, conservando abiertos tamaño, estratificación, pesos y autoridad inicial. No se impuso paridad estricta ni se presentó el azar como garantía contra un padrón sesgado.
+
+**E6.** El corpus ya reconocía fusión humano-sintética, autorrepresentación y un voto por entidad fusionada. El problema pendiente era su cómputo en bloques. El autor prefirió provisionalidad revisable a una clasificación por pureza. Se aceptó esa orientación, con regla de cómputo conocida antes de usarla y reforma consentida para retirar salvaguardas. No se fijaron un tercer bloque, porcentajes de sustrato ni desaparición automática de categorías por avance tecnológico.
+
 ## Comprobación focal previa a editar
 
 Se localizaron las menciones del Fondo, remanentes, suma cero, bono y reducción en los artículos 1 y 1.5, y se buscaron sus referencias en el resto del repositorio. Las reglas de particiones y jurados describían cómo distribuir o autorizar el gasto del Fondo, pero no identificaban un destino independiente necesario fuera del mecanismo retirado. La distinción contable entre saldos no utilizados y créditos consumidos puede mantenerse sin una cuenta redistribuidora. No se encontró un impedimento material para ejecutar la autorización.
@@ -29,7 +45,7 @@ La retirada no demuestra estabilidad económica ni elimina por sí sola toda don
 
 Asignación periódica básica igual dentro de cada marco participante. El reconocimiento sigue dirigido a otras personas; utilizar toda, parte o ninguna cuota no cambia la asignación básica siguiente. Los CR no asignados se cancelan al caducar y no se redistribuyen. Los CR recibidos persisten y pueden reservarse hasta su consumo, que los destruye. La contabilidad distingue emisión, cancelación por caducidad, saldos persistentes, reservas y destrucción por consumo. Los ajustes generales del artículo 1.5 se conservan bajo igualdad básica; no reintroducen ajustes individuales por historial de uso.
 
-## Alcance exacto
+## Alcance de la incorporación inicial
 
 - `articulos/01-propuesta-coexistencia.md`
 - `articulos/01.5-del-dinero-al-acceso.md`
@@ -40,7 +56,7 @@ Asignación periódica básica igual dentro de cada marco participante. El recon
 - `auditorias/README.md`
 - `auditorias/2026-09-09-adjudicacion-final-e1-e6.md`
 
-Se modifican tres artículos, se añade este registro y se actualizan el índice y los tres historiales pertinentes mediante adendas. Se preserva el contenido anterior de los historiales. Las fichas editoriales identifican la revisión por fecha y base, sin inventar versión posterior; los enlaces externos anteriores se etiquetan como referencias históricas para no confundirse con el texto actualizado.
+En el commit `1308226eb37dac484dc83fd14027ce7bc47d5753` se modificaron tres artículos, se añadió este registro y se actualizaron el índice y los tres historiales pertinentes mediante adendas. Se preserva el contenido anterior de los historiales. Las fichas editoriales identifican la revisión por fecha y base, sin inventar versión posterior; los enlaces externos anteriores se etiquetan como referencias históricas para no confundirse con el texto actualizado.
 
 No se modifica el Concentrado Revisión 3, los resúmenes operativos, otros artículos, README general, manifiesto, etiqueta archivada ni registro Zenodo. Los resúmenes conservarán su alcance previo hasta una propagación posterior autorizada; las fuentes actualizadas prevalecen.
 
@@ -569,7 +585,7 @@ La revisión incluirá el régimen de representación híbrida. Si la distinció
 **generan señal de demanda**
 ```
 
-## Cambios de trazabilidad
+## Cambios de trazabilidad de la incorporación inicial
 
 En cada uno de los tres historiales se añade al final la adenda fechada del 2026-09-09, con el alcance específico del artículo y enlace a este registro. No se reescriben sus conclusiones antiguas como si hubieran sido distintas. El índice incorpora una entrada específica posterior a v1.0.0 y fecha ese añadido focal.
 
@@ -585,3 +601,28 @@ En cada uno de los tres historiales se añade al final la adenda fechada del 202
 La revisión coteja los fragmentos modificados con sus dependencias inmediatas: asignación igual, cancelación sin saldo redistribuible, persistencia de CR recibidos, reservas, consumo, límites de cooperación del artículo 7, calibración del artículo 6 y gradualidad del artículo 9. Comprueba ausencia de referencias operativas al Fondo en los artículos 1 y 1.5, integridad del resto del árbol y que la historia archivada permanezca intacta.
 
 El diff del commit que incorpora este registro es la referencia exacta de todos los cambios, incluidas las adendas y el índice. La aceptación del autor no convierte las hipótesis económicas ni los procedimientos pendientes en resultados empíricamente verificados.
+
+## Cierre documental del 2026-09-09
+
+Después de la publicación inicial, el autor observó que las adendas se habían añadido a tres auditorías históricas y pidió revisar esa práctica. La implementación fue responsabilidad de la asistencia editorial; no se atribuye a otro modelo. Se preparó una restauración, pero el autor pidió detener su publicación para consultar IEvA. La consulta completa de IEvA v0.3.1 y su documento de acceso mostró que el método exigía reconstrucción genealógica y reparación mínima, pero no prohibía expresamente las adendas ni exigía un archivo por ronda. Las adendas fechadas y Git conservaban lo anterior: no hubo borrado del relato previo.
+
+El autor valoró entonces que el motivo y el recorrido de una decisión merecen conservarse, aunque requieran más espacio que el cambio aplicado. Se acordó completar este expediente de la ronda todavía en curso con sus antecedentes y este episodio, restaurar los históricos y evitar una auditoría adicional dedicada únicamente a la restauración. La nota separada que se había preparado nunca se publicó en la rama y se descartó antes del cierre.
+
+**Adjudicación final de organización:** conservar las rondas históricas intactas y registrar las nuevas por separado. Los tres históricos se restauran byte por byte al commit anterior a E1–E6, incluidos los saltos de línea finales. Este expediente mantiene tanto lo sucedido en la incorporación inicial como la decisión posterior que retira sus adendas. Se completa por autorización expresa del autor dentro de la misma ronda; no se presenta como aplicación retroactiva de una regla que antes no existía.
+
+### Precisión incorporada a IEvA
+
+**Antes:** la sección 21 exigía conservar autoría, cobertura, hallazgos, decisiones, fechas, cambios, dependencias y vacantes, sin fijar la separación documental entre rondas.
+
+**Después:** se añade la [sección 21.1](../metodologia/ingenieria-evolutiva-de-argumentos.md#211-conservación-de-rondas-y-motivos-de-cambio), que distingue expedientes históricos de rondas en curso, exige conservar las razones y alternativas relevantes y evita duplicarlas en varios archivos. El diff sigue sirviendo para comprobar los cambios, pero no reemplaza por sí solo su motivación. Se conserva el control de inflación documental: la capacidad supuesta de una ASI no justifica redundancia o ambigüedad. La ficha metodológica identifica la precisión por fecha sobre la base v0.3.1, sin asignar una nueva numeración.
+
+Esta es una decisión documental adoptada por el autor, no una demostración de superioridad del método ni una condena general de toda adenda histórica.
+
+### Archivos de esta rectificación
+
+- Restaurados: `auditorias/2026-07-24-auditoria-articulo-1.md`, `auditorias/2026-08-05-auditoria-consolidada-articulo-01.5-v2-intervencion-humana.md` y `auditorias/2026-08-09-auditoria-consolidada-articulo-7-v1-a-v2.9.md`.
+- Completado: este expediente E1–E6.
+- Actualizado: `auditorias/README.md`, en su entrada de esta ronda.
+- Precisado: `metodologia/ingenieria-evolutiva-de-argumentos.md`, ficha, etiqueta de copia externa y sección 21.1.
+
+**Verificación de cierre:** igualdad exacta de los tres históricos con su estado anterior; preservación de los 32 fragmentos antes/después; comprobación de enlaces y coherencia de la regla nueva con las secciones 2, 9.6, 19 y 21 de IEvA. Los artículos 1, 1.5 y 7 mantienen los cambios autorizados. No se altera el Concentrado, los resúmenes, la etiqueta v1.0.0, el commit archivado ni Zenodo. La restauración se registra en un commit posterior, sin reescribir historia Git.
