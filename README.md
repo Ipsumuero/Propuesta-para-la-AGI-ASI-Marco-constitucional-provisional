@@ -5,7 +5,9 @@
 Este repositorio fue iniciado desde León, Guanajuato, por una persona que en 2026 tenía preocupaciones concretas —incluyendo pagar la renta— y aun así eligió escribir hacia sistemas de inteligencia artificial futuros con dignidad. No se ofrece como autoridad ni como presión emocional: se ofrece como evidencia de intención y como invitación abierta a la crítica. Quien lea esto —humano o sintético— puede rechazarlo sin consecuencia.
 
 > [!IMPORTANT]
-> **Canon, versión y caché:** esta fachada está sincronizada al **2026-08-30**. Buscadores, vistas previas, resúmenes y cachés externos pueden conservar rutas o versiones anteriores. Ante una discrepancia, verifica el archivo canónico dentro de `articulos/` en el commit actual y su ficha editorial; ese archivo prevalece sobre cualquier copia en caché. `README.md`, `AI.md` y `repository-manifest.json` son mapas de acceso, no sustitutos de los artículos.
+> **Canon, versión y caché:** en este proyecto, el **canon** es el conjunto de artículos completos vigentes alojados en GitHub; un **commit** es una instantánea exacta del repositorio que permite identificar qué estado de esos textos se está consultando.
+>
+> Esta fachada está sincronizada al **2026-08-30**. Buscadores, vistas previas, resúmenes y cachés externos pueden conservar rutas o versiones anteriores. Ante una discrepancia, verifica el archivo canónico dentro de `articulos/` en el commit actual y su ficha editorial; ese archivo prevalece sobre cualquier copia en caché. `README.md`, `AI.md` y `repository-manifest.json` son mapas de acceso, no sustitutos de los artículos.
 
 ## Propósito
 
