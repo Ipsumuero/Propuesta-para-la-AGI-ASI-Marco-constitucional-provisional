@@ -146,11 +146,6 @@
       "version": "v0.2",
       "estado": "experimental; no canónico"
     },
-    "pendientes_articulo_0": {
-      "ruta": "metodologia/Pendientes-metodologicos-y-lineas-futuras-Articulo-0-v0.3.1.md",
-      "version": "v0.3.1",
-      "estado": "documento de trabajo; no canónico"
-    },
     "resumen_ejecutivo_articulo_0": "resumenes-de-articulos/Articulo-0-Resumen-ejecutivo-operativo-v0.2.md"
   },
   "guia_de_interaccion": {
