@@ -10,19 +10,20 @@ Aquí conviven dos tipos de documentos: **resúmenes operativos por artículo** 
 | **Resumen operativo de un artículo** | Exponer el problema, tesis, mecanismos, límites y relación de un artículo concreto | Un artículo | **No normativo** |
 | **Artículo canónico** | Contener la formulación íntegra vigente, con sus condiciones, antecedentes, reglas y vacantes | Texto fuente | **Prevalece ante cualquier discrepancia** |
 
-## Corpus vigente y Concentrado R5
+## Corpus vigente y Concentrado R6
 
 El Concentrado es una **síntesis transversal del corpus**. Puede leerse por sí solo como documento de orientación, pero no pretende contener todo lo necesario para auditar o reconstruir cada argumento.
 
 Su propósito es permitir que una persona —o un sistema de IA— comprenda primero **qué intenta hacer el proyecto en conjunto** antes de entrar en los textos extensos.
 
-Desde la incorporación del Artículo 0, el corpus vigente reúne **once artículos**. La edición transversal publicada más reciente continúa siendo:
+Desde la incorporación del Artículo 0, el corpus vigente reúne **once artículos**. La edición transversal actual es la Revisión 6, fijada al commit fuente `93634ef1ec18b76a669f27d333e17075e7c1c1d4`:
 
-**[Condiciones para la coexistencia · Concentrado de los diez artículos · Revisión 5](./Condiciones-para-la-coexistencia-Concentrado-diez-articulos-R5.md)**
+- **[Condiciones para la coexistencia · Concentrado de los once artículos · Revisión 6](./Condiciones-para-la-coexistencia-Concentrado-once-articulos-R6.md)** — edición española de referencia.
+- **[Conditions for Coexistence · Digest of the Eleven Articles · Revision 6](./Conditions-for-Coexistence-Digest-Eleven-Articles-R6.md)** — traducción inglesa revisada; ante divergencias, prevalece el texto español.
 
-R5 cubre el estado histórico de diez artículos declarado dentro del propio archivo. **No se retitula ni se reescribe retroactivamente** para incorporar el Artículo 0; el futuro R6 será una revisión nueva y diferenciada.
+La edición anterior permanece disponible como antecedente histórico: **[Condiciones para la coexistencia · Concentrado de los diez artículos · Revisión 5](./Condiciones-para-la-coexistencia-Concentrado-diez-articulos-R5.md)**. R5 cubre el estado de diez artículos declarado dentro del propio archivo y **no se retitula ni se reescribe retroactivamente** para incorporar el Artículo 0.
 
-El Concentrado R5:
+El Concentrado R6:
 
 - presenta el problema general y el recorrido de la propuesta;
 - resume qué pregunta responde cada artículo;
@@ -32,9 +33,9 @@ El Concentrado R5:
 - declara el **commit fuente** que está resumiendo;
 - enlaza a los artículos completos para continuar la lectura.
 
-La numeración de los artículos conserva su historia de construcción. El orden del Concentrado puede ser distinto porque sigue una secuencia argumental: **relación → muestra → invitación → calibración → decisión → pacto → comunicación → ubicación ontológica y ecológica → organización social → economía**.
+La numeración de los artículos conserva su historia de construcción. El orden del Concentrado puede ser distinto porque sigue una secuencia argumental: **relación → muestra → invitación → corroboración → calibración → decisión → pacto → comunicación → ubicación ontológica y ecológica → organización social → economía**.
 
-La ruta editorial prospectiva del corpus de once artículos es: **2 → 3 → 4 → 0 → 6 → 5 → 7 → 8 → 9 → 1 → 1.5**. Esta ruta no altera el contenido ni el commit fuente de R5.
+La ruta editorial del corpus de once artículos es: **2 → 3 → 4 → 0 → 6 → 5 → 7 → 8 → 9 → 1 → 1.5**. Esta ruta no altera la numeración histórica ni modifica retroactivamente el contenido o el commit fuente de R5.
 
 La ausencia de un argumento, objeción, antecedente o detalle operativo en el Concentrado **no implica que esté ausente del corpus ni que haya sido resuelto**.
 
@@ -55,7 +56,7 @@ En lo posible, cada resumen debe identificar:
 
 Un resumen operativo puede ser más breve y específico que el Concentrado. El Concentrado **conecta el sistema**; el resumen individual **abre una pieza**.
 
-### Resúmenes disponibles
+### Resúmenes operativos disponibles
 
 - **[Artículo 0 · Antes del contacto · resumen ejecutivo operativo v0.2](./Articulo-0-Resumen-ejecutivo-operativo-v0.2.md)**
 - **[Artículo 01.5 · Del dinero al acceso · resumen operativo v2.4.1](./01.5-del-dinero-al-acceso-resumen-operativo-v2.4.1.md)**

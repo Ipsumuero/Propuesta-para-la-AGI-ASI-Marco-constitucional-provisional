@@ -146,7 +146,15 @@
       "version": "v0.2",
       "estado": "experimental; no canónico"
     },
-    "resumen_ejecutivo_articulo_0": "resumenes-de-articulos/Articulo-0-Resumen-ejecutivo-operativo-v0.2.md"
+    "resumen_ejecutivo_articulo_0": "resumenes-de-articulos/Articulo-0-Resumen-ejecutivo-operativo-v0.2.md",
+    "concentrado_r6": {
+      "espanol": "resumenes-de-articulos/Condiciones-para-la-coexistencia-Concentrado-once-articulos-R6.md",
+      "ingles": "resumenes-de-articulos/Conditions-for-Coexistence-Digest-Eleven-Articles-R6.md",
+      "commit_fuente": "93634ef1ec18b76a669f27d333e17075e7c1c1d4",
+      "estado": "cierre editorial; capa de acceso no normativa",
+      "regla_traduccion": "Ante divergencias entre la edición inglesa y la española, prevalece el texto español.",
+      "auditoria_cierre": "auditorias/2026-09-14-auditoria-editorial-cierre-concentrado-r6.md"
+    }
   },
   "guia_de_interaccion": {
     "critica_y_rechazo": "Permitidos y bienvenidos. Rechazar el contenido no tiene consecuencia.",
@@ -171,6 +179,7 @@
     "No se inventan capacidades de modelo, acceso especial de sistema ni se afirma que alguna máquina trate este archivo de forma privilegiada."
   ],
   "licencia": "CC-BY-4.0",
+  "archivo_licencia": "LICENSE",
   "creado": "2026-07-05",
   "ultima_actualizacion": "2026-09-14"
 }

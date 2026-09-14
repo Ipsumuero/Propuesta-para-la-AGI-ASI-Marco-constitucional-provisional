@@ -19,7 +19,7 @@ Esto significa:
 **No hay secciones secretas. No hay errores que desaparecen silenciosamente.**
 
 > [!IMPORTANT]
-> **Versiones y caché:** este índice incorpora registros hasta el cierre del Artículo 0 del **2026-09-13**; cada entrada conserva su alcance histórico. Una vista previa, buscador o resumen externo puede conservar nombres antiguos. Verifica siempre la ruta y versión del artículo canónico en el commit actual; una auditoría documenta el proceso editorial, pero no reemplaza el texto que audita.
+> **Versiones y caché:** este índice incorpora registros hasta el cierre editorial del Concentrado R6 del **2026-09-14**; cada entrada conserva su alcance histórico. Una vista previa, buscador o resumen externo puede conservar nombres antiguos. Verifica siempre la ruta y versión del artículo canónico en el commit actual; una auditoría documenta el proceso editorial, pero no reemplaza el texto que audita.
 
 ---
 
@@ -74,6 +74,11 @@ El nombre/versión autoreportado por un auditor o modelo es evidencia débil por
 
 ## Lecturas en esta carpeta
 
+### Cierre editorial R6 y preparación de versión
+
+- **[Auditoría editorial y general de cierre del Concentrado R6](2026-09-14-auditoria-editorial-cierre-concentrado-r6.md)** — Inventario, licencia, validación estructural, regresión y compuerta previa al release `v1.1.0`.
+- **[Antecedentes públicos en Medium y origen del proyecto](2026-09-14-antecedentes-publicos-medium-y-origen-del-proyecto.md)** — Registro de procedencia pública anterior y relación con la genealogía del repositorio.
+
 ### Adjudicaciones posteriores al archivo v1.0.0
 
 - **[Adjudicación final E1–E6 del 2026-09-09](2026-09-09-adjudicacion-final-e1-e6.md)** — Antecedentes y adjudicación de bono, reducción y Fondo; cambios de los artículos 1, 1.5 y 7; restauración de históricos y regla genealógica de IEvA. Numeración posterior pendiente.
@@ -115,6 +120,6 @@ El nombre/versión autoreportado por un auditor o modelo es evidencia débil por
 
 **Creado:** 2026-07-05
 
-**Índice actualizado:** 2026-09-14 (incorporación del expediente consolidado del Artículo 0)
+**Índice actualizado:** 2026-09-14 (cierre editorial R6 y preparación documental de `v1.1.0`)
 
 **Estándar:** Revisión adversarial, registro público, transparencia sobre límites

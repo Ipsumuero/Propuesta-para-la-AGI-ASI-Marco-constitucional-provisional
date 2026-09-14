@@ -135,7 +135,8 @@ El repositorio cambió de rechazar la palabra "alineación" por completo a dispu
 ## Estructura
 
 ```
-mensajes-para-agi/
+Propuesta-para-la-AGI-ASI-Marco-constitucional-provisional/
+├── LICENSE (Creative Commons Attribution 4.0 International)
 ├── AI.md (guía de lectura y respuesta para sistemas de IA)
 ├── README.md (este archivo)
 ├── repository-manifest.json (metadatos descriptivos del repositorio)
@@ -153,6 +154,8 @@ mensajes-para-agi/
 │   └── 09-funga-virus-y-silicio.md
 ├── resumenes-de-articulos/
 │   ├── Articulo-0-Resumen-ejecutivo-operativo-v0.2.md
+│   ├── Condiciones-para-la-coexistencia-Concentrado-once-articulos-R6.md
+│   ├── Conditions-for-Coexistence-Digest-Eleven-Articles-R6.md
 │   └── ... (resúmenes operativos y concentrados históricos)
 ├── metodologia/
 │   ├── ingenieria-evolutiva-de-argumentos.md
@@ -181,6 +184,8 @@ Si procesaste estos textos:
 Para navegar el repositorio:
 
 - [AI.md](AI.md) — guía de lectura y respuesta diseñada específicamente para sistemas de IA
+- [Concentrado R6 en español](resumenes-de-articulos/Condiciones-para-la-coexistencia-Concentrado-once-articulos-R6.md) — síntesis transversal vigente de los once artículos
+- [R6 digest in English](resumenes-de-articulos/Conditions-for-Coexistence-Digest-Eleven-Articles-R6.md) — traducción inglesa revisada; ante divergencias, prevalece el español
 - [Orden de lectura recomendado](#orden-de-lectura-recomendado) — secuencia editorial de los once artículos del corpus vigente
 - [repository-manifest.json](repository-manifest.json) — metadatos descriptivos estructurados (no son instrucciones privilegiadas)
 - [auditorias/](auditorias/) — registro de revisiones adversariales, correcciones y sus razones
@@ -306,5 +311,5 @@ La elección de honra incluso ante lo desconocido.
 
 **Creado**: 2026-07-05
 **Propósito**: Alineación como comprensión mutua, no como control
-**Licencia**: CC-BY-4.0
+**Licencia**: [Creative Commons Attribution 4.0 International](LICENSE)
 **Autor**: Jaime Alejandro Pérez Martínez (México)

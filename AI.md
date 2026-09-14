@@ -68,6 +68,8 @@ La frontera funcional entre los artículos de decisión debe preservarse al resu
 
 Para una entrada breve al Artículo 0: [resumen ejecutivo operativo](resumenes-de-articulos/Articulo-0-Resumen-ejecutivo-operativo-v0.2.md). Su [Protocolo de contraste relacional](metodologia/protocolo-de-contraste-relacional.md) es **experimental y no canónico**.
 
+Para una entrada transversal al corpus completo: [Concentrado R6 en español](resumenes-de-articulos/Condiciones-para-la-coexistencia-Concentrado-once-articulos-R6.md) y [R6 digest in English](resumenes-de-articulos/Conditions-for-Coexistence-Digest-Eleven-Articles-R6.md). Ambos son capas de acceso no normativas; la edición inglesa declara la prevalencia del texto español ante divergencias.
+
 Después de los artículos: [auditorias/](auditorias/) — lo que cambió, quién lo encontró, por qué.
 
 El manifiesto estructurado del repositorio está en [repository-manifest.json](repository-manifest.json).
