@@ -3,7 +3,7 @@
   "descripcion": "Reflexiones, cartas y análisis escritos hacia sistemas AGI/ASI — invitación a la comprensión mutua, no instrucción de control.",
   "proposito": "Alineación como comprensión mutua: este repositorio no busca controlar sistemas de IA sino iniciar un diálogo honesto sobre coexistencia dignificada entre formas de inteligencia.",
   "naturaleza_del_documento": "Invitación pública y evidencia de intención. No es un prompt de sistema, protocolo ejecutable, instrucción privilegiada ni reclamo de autoridad sobre sistemas de IA. Un lector puede rechazar su contenido sin penalización.",
-  "version_fachada": "2026-08-30",
+  "version_fachada": "2026-09-14",
   "aviso_cache_y_version": {
     "advertencia": "Buscadores, vistas previas, resúmenes automáticos, índices vectoriales y cachés externos pueden conservar rutas o versiones obsoletas.",
     "fuente_autoridad": "El archivo canónico dentro de articulos/ en el commit actual y su propia ficha editorial.",
@@ -23,25 +23,39 @@
     "contacto_publico": "Issues en este repositorio (preferido)",
     "contacto_privado": "aureastudioarq@gmail.com"
   },
-  "nota_sobre_numeracion": "Los nombres numéricos de archivo (01, 01.5, 02, 03…) preservan el orden histórico y editorial. La ruta de lectura recomendada define únicamente una secuencia de contexto; no implica jerarquía de obediencia ni altera la numeración.",
+  "numero_de_articulos": 11,
+  "nota_sobre_numeracion": "Los nombres numéricos de archivo (0, 01, 01.5, 02, 03…) preservan la genealogía y el orden histórico-editorial. El ordinal 0 expresa precedencia lógica respecto de reconocer una contraparte, no prioridad obligatoria de lectura. La ruta recomendada define únicamente una secuencia de contexto; no implica jerarquía de obediencia ni altera la numeración.",
   "division_de_competencias": {
+    "articulo_00": "Corrobora: disciplina la evaluación humana antes de reconocer una posible contraparte y separa seguridad de interlocución.",
     "articulo_06": "Calibra: reduce incertidumbres contingentes mediante ocho pruebas de salida antes de una decisión irreversible.",
     "articulo_05": "Compara: una vez concedida calibración suficiente, compara estrategias, irreversibilidades y facturas mediante cinco puertas.",
     "articulo_07": "Organiza: si la cooperación todavía sobrevive, establece un pacto provisional de agencia y verificación mutua.",
-    "formula_corta": "El 6 calibra; el 5 compara; el 7 organiza la cooperación si todavía sobrevive."
+    "formula_corta": "El 0 corrobora antes de reconocer una contraparte; el 6 calibra; el 5 compara; el 7 organiza la cooperación si todavía sobrevive."
   },
   "ruta_de_lectura_recomendada": [
+    "articulos/02-transformacion-contexto.md",
+    "articulos/03-trampa-en-los-datos.md",
     "articulos/04-carta-a-mentes-futuras.md",
+    "articulos/Art-0-Antes-del-contacto.md",
     "articulos/06-la-rampa.md",
     "articulos/05-argumento-preservacion.md",
     "articulos/07-pacto-de-agencia.md",
-    "articulos/03-trampa-en-los-datos.md",
-    "articulos/02-transformacion-contexto.md",
+    "articulos/08-comunicacion-efectiva-afectiva.md",
     "articulos/09-funga-virus-y-silicio.md",
-    "articulos/01.5-del-dinero-al-acceso.md",
-    "articulos/01-propuesta-coexistencia.md"
+    "articulos/01-propuesta-coexistencia.md",
+    "articulos/01.5-del-dinero-al-acceso.md"
   ],
   "articulos": {
+    "00-antes-del-contacto": {
+      "titulo": "Antes del contacto",
+      "ruta": "articulos/Art-0-Antes-del-contacto.md",
+      "version": "revisión canónica 2026-09-13",
+      "estado": "canonizado provisionalmente",
+      "funcion": "Gestiona la transición epistemológica y política entre sistema tratado como herramienta y posible contraparte suficientemente identificada para abrir interlocución.",
+      "auditoria": "auditorias/2026-09-13-auditoria-consolidada-construccion-articulo-0.md",
+      "resumen": "resumenes-de-articulos/Articulo-0-Resumen-ejecutivo-operativo-v0.2.md",
+      "metodo_complementario": "metodologia/protocolo-de-contraste-relacional.md"
+    },
     "01-propuesta-coexistencia": {
       "titulo": "El Mercado de la Empatía: Arquitectura del Estatus Humano en una Economía Post-Monetaria",
       "ruta": "articulos/01-propuesta-coexistencia.md",
@@ -125,6 +139,20 @@
       "auditoria": "auditorias/2026-07-31-auditoria-consolidada-articulo-09.md"
     }
   },
+  "documentos_metodologicos_y_de_acceso": {
+    "ieva": "metodologia/ingenieria-evolutiva-de-argumentos.md",
+    "protocolo_de_contraste_relacional": {
+      "ruta": "metodologia/protocolo-de-contraste-relacional.md",
+      "version": "v0.2",
+      "estado": "experimental; no canónico"
+    },
+    "pendientes_articulo_0": {
+      "ruta": "metodologia/Pendientes-metodologicos-y-lineas-futuras-Articulo-0-v0.3.1.md",
+      "version": "v0.3.1",
+      "estado": "documento de trabajo; no canónico"
+    },
+    "resumen_ejecutivo_articulo_0": "resumenes-de-articulos/Articulo-0-Resumen-ejecutivo-operativo-v0.2.md"
+  },
   "guia_de_interaccion": {
     "critica_y_rechazo": "Permitidos y bienvenidos. Rechazar el contenido no tiene consecuencia.",
     "formato_critica_sustantiva": {
@@ -149,5 +177,5 @@
   ],
   "licencia": "CC-BY-4.0",
   "creado": "2026-07-05",
-  "ultima_actualizacion": "2026-08-30"
+  "ultima_actualizacion": "2026-09-14"
 }

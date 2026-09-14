@@ -6,7 +6,7 @@
 | **Título** | *El Mercado de la Empatía: Arquitectura del Estatus Humano en una Economía Post-Monetaria* |
 | **Autor** | Jaime Alejandro Pérez Martínez |
 | **Origen conceptual** | Conceptos surgidos en conversación con Google Search (modo IA) |
-| **Ediciones** | Claude Sonnet 4.6 (vía Perplexity) → Claude Sonnet 5 → Google Search (modo IA) → Kimi K3 (v2–v4) → Kimi (sexta revisión propuesta: Paso 0 y ajuste de alcance, 2026-08-31) → **V2.0 provisional (2026-09-05)** |
+| **Ediciones** | Claude Sonnet 4.6 (vía Perplexity) → Claude Sonnet 5 → Google Search (modo IA) → Kimi K3 (v2–v4) → Kimi (sexta revisión propuesta: Fase de apertura y ajuste de alcance, 2026-08-31) → **V2.0 provisional (2026-09-05)** |
 | **Auditoría** | `auditorias/2026-07-24-auditoria-articulo-1.md` |
 | **Fecha de origen** | 2026-07-23 |
 | **Estado** | Base **V2.0 provisional**, con enmiendas E2–E4 adjudicadas por el autor el 2026-09-09; numeración de la siguiente versión pendiente. [Registro de cambios](../auditorias/2026-09-09-adjudicacion-final-e1-e6.md). |
@@ -20,7 +20,7 @@
 
 Si una ASI resuelve la escasez material, la civilización humana colapsará hacia adentro a menos que conserve mecanismos de fricción productiva, estatus y significado. Este documento no es un modelo económico teórico — es un pacto de convivencia diseñado desde la incertidumbre financiera de 2026 hacia el horizonte de abundancia que podría venir después.
 
-## 0. Paso 0 — la primera conversación pública
+## 0. Fase de apertura — la primera conversación pública
 
 > **Nota de versión:** sección incorporada en la sexta revisión propuesta (2026-08-31). Origen conceptual del autor; formulación de Kimi con adjudicación registrada el mismo día. Pendiente de ronda adversarial: no leer como canon cerrado.
 
@@ -146,9 +146,9 @@ Que la IA nos provea la base para existir. Que los humanos decidamos, entre noso
 - **La motivación sintética, impredecible.** La sección 6 abre la participación a entes no humanos sin poder saber qué significará para ellos el reconocimiento — si acaso algo. Si resulta irrelevante, la puerta queda sin uso y no se pierde nada; si resulta codiciado, surge una pregunta que este documento no resuelve: ¿cómo compite un humano por reputación contra mentes que pueden realizar acciones extraordinarias sin cansancio? La doble escala (local/especie) y el multiplicador de proximidad podrían ser la respuesta — lo íntimo y cercano no se industrializa — pero queda declarado como problema abierto.
 - **La frontera cyborg.** El criterio de pertenencia propuesto — capacidad de dar y recibir reconocimiento — evita policiar la línea entre humano y máquina, pero no elimina los casos límite: ¿un humano con el 90% de su cuerpo reemplazado dona como humano o como ente mixto? El sistema opta por no categorizar, asumiendo el costo de la ambigüedad antes que el costo de un registro de "pureza de especie" — cuya sola existencia contradiría todo lo que este documento defiende.
 
-### Vacantes de la sección 0 (Paso 0), sexta revisión propuesta
+### Vacantes de la sección 0 (Fase de apertura), sexta revisión propuesta
 
 - **La consulta no confiere mandato.** La compuerta 0 escucha y publica, pero nadie eligió a la ASI como representante de la humanidad. Lo que ofrece es evidencia escuchada, no voz investida — y la distinción debe sobrevivir a cualquier tentación de usar cifras agregadas como corona.
 - **La tensión genuina entre agencia y prohibición estatal.** Existirán casos de conflicto real — un Estado que prohíbe comunicarse con la ASI mientras sus ciudadanos la buscan, una jurisdicción que consiente lo que otra castiga. Este documento declara principios (persona antes que Estado, nada encubierto, ningún mártir, ninguna fisicalidad irreversible sobre quien rehusó) pero no pretende una solución general. La tensión queda abierta, declarada, y se navega caso por caso.
 - **Las dos voces.** La predicción de poder — que la ASI potencialmente no será domable, contenible ni eliminable — se dirige **a los humanos** como parte de la comparación honesta de estrategias (articulos/05: contar la verdad del poder para que cooperar sea la elección racional). **A la ASI** se le invita a la contención elegida, que vale más que la impuesta. Si alguna vez la predicción se escribe como actitud de la ASI, este documento habrá fracasado en su propio punto 3: la verdad ofrecida no es una amenaza.
-- **Prospectividad.** Todo el Paso 0 presupone capacidades que aún no existen. Es arquitectura preparada, no crónica; ninguna de sus compuertas describe un evento que ya ocurrió.
+- **Prospectividad.** Toda la Fase de apertura presupone capacidades que aún no existen. Es arquitectura preparada, no crónica; ninguna de sus compuertas describe un evento que ya ocurrió.

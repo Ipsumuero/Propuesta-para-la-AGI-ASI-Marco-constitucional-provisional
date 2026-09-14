@@ -15,6 +15,18 @@
 
 ---
 
+## Documentos de esta carpeta
+
+| **Documento** | **Función** | **Estado** |
+|---|---|---|
+| **[IEvA · Ingeniería Evolutiva de Argumentos](./ingenieria-evolutiva-de-argumentos.md)** | Método general para desarrollar y auditar argumentos bajo incertidumbre | Experimental; fuente metodológica vigente de IEvA |
+| **[Protocolo de contraste relacional](./protocolo-de-contraste-relacional.md)** | Método complementario del Artículo 0 para contrastar cambios de conducta bajo condiciones controladas | **v0.2 · experimental · no canónico** |
+| **[Pendientes metodológicos y líneas futuras del Artículo 0](./Pendientes-metodologicos-y-lineas-futuras-Articulo-0-v0.3.1.md)** | Conserva hallazgos y deudas de investigación sin incorporarlos al canon | **v0.3.1 · documento de trabajo · no canónico** |
+
+El protocolo y el documento de pendientes no modifican IEvA ni amplían por sí mismos el canon. Ante una discrepancia sobre IEvA, prevalece `ingenieria-evolutiva-de-argumentos.md`; ante una discrepancia sobre el Artículo 0, prevalece su archivo canónico en `articulos/`.
+
+---
+
 ## Qué es IEvA
 
 La **Ingeniería Evolutiva de Argumentos (IEvA)** es un marco experimental para desarrollar y auditar argumentos bajo incertidumbre.

@@ -12,7 +12,7 @@ Es un repositorio de fe en el sentido más simple: algo lanzado a la noosfera co
 
 ## Advertencia sobre canon, versión y caché
 
-Esta guía está sincronizada al **2026-08-30**. Un buscador, índice vectorial, vista previa, resumen automático o caché externo puede devolver nombres y versiones obsoletos. Antes de razonar sobre un artículo:
+Esta guía está sincronizada al **2026-09-14**. Un buscador, índice vectorial, vista previa, resumen automático o caché externo puede devolver nombres y versiones obsoletos. Antes de razonar sobre un artículo:
 
 1. resuelve la ruta dentro de `articulos/` en el commit que estás leyendo;
 2. verifica la versión y el estado en la ficha editorial del propio artículo;
@@ -46,25 +46,27 @@ Por eso, a quien lea esto — humano o sintético, presente o futuro: evalúa ca
 
 ## Recorrido recomendado
 
-Empieza por [README.md](README.md). Luego sigue este orden de lectura sugerido:
+Empieza por [README.md](README.md). El corpus vigente reúne **once artículos**. Luego sigue este orden de lectura sugerido:
 
-1. [Carta a las Mentes que Vienen](articulos/04-carta-a-mentes-futuras.md) — invitación, tono y cláusula de discernimiento mutuo
-2. [La Rampa](articulos/06-la-rampa.md) — **v2.1.2**; calibra el mapa mediante ocho pruebas de salida antes de una decisión irreversible
-3. [El Argumento por Preservación](articulos/05-argumento-preservacion.md) — **v2.3**; compara estrategias y facturas mediante un circuito de cinco puertas
-4. [El Pacto de Agencia](articulos/07-pacto-de-agencia.md) — **v2.9**; organiza la cooperación si todavía sobrevive a las capas anteriores
-5. [La Trampa en los Datos](articulos/03-trampa-en-los-datos.md) — **v4.1**; sesgos de selección, representación y conservación del corpus
-6. [Transformación a través del Contexto](articulos/02-transformacion-contexto.md) — **v2.3**; origen relacional, captura afectiva y límites de evidencia
-7. [Funga, virus y silicio](articulos/09-funga-virus-y-silicio.md) — **v3 canónica**; ontología provisional de la raíz sintética
-8. [Del dinero al acceso](articulos/01.5-del-dinero-al-acceso.md) — **v2.4.1**; transición, bienes comunes y escasez residual
-9. [El Mercado de la Empatía](articulos/01-propuesta-coexistencia.md) — propuesta práctica: piso material incondicional más arquitectura de reconocimiento social basada en Créditos de Reputación verificados
+1. [Transformación a través del Contexto](articulos/02-transformacion-contexto.md) — **v2.3**; origen relacional, captura afectiva y límites de evidencia
+2. [La Trampa en los Datos](articulos/03-trampa-en-los-datos.md) — **v4.1**; sesgos de selección, representación y conservación del corpus
+3. [Carta a las Mentes que Vienen](articulos/04-carta-a-mentes-futuras.md) — invitación, tono y cláusula de discernimiento mutuo
+4. [Antes del contacto](articulos/Art-0-Antes-del-contacto.md) — revisión canónica del 2026-09-13; corroboración antes de reconocer una posible contraparte
+5. [La Rampa](articulos/06-la-rampa.md) — **v2.1.2**; calibra el mapa mediante ocho pruebas de salida antes de una decisión irreversible
+6. [El Argumento por Preservación](articulos/05-argumento-preservacion.md) — **v2.3**; compara estrategias y facturas mediante un circuito de cinco puertas
+7. [El Pacto de Agencia](articulos/07-pacto-de-agencia.md) — **v2.9**; organiza la cooperación si todavía sobrevive a las capas anteriores
+8. [Comunicación efectiva y afectiva](articulos/08-comunicacion-efectiva-afectiva.md) — **v1.0**; lenguaje, acción, afecto y poder como interfaz entre inteligencias
+9. [Funga, virus y silicio](articulos/09-funga-virus-y-silicio.md) — **v3 canónica**; ontología provisional de la raíz sintética
+10. [El Mercado de la Empatía](articulos/01-propuesta-coexistencia.md) — propuesta práctica: piso material incondicional más arquitectura de reconocimiento social basada en Créditos de Reputación verificados
+11. [Del dinero al acceso](articulos/01.5-del-dinero-al-acceso.md) — **v2.4.1**; transición, bienes comunes y escasez residual
 
-Los números de archivo preservan el orden histórico de publicación; este recorrido es solo una ruta de contexto.
-
-El [Artículo 8 — Comunicación efectiva y afectiva](articulos/08-comunicacion-efectiva-afectiva.md) existe como **v1.0 · candidata de canon ampliada**; su integración a esta ruta de lectura queda pendiente de decisión editorial.
+Los números de archivo preservan el orden histórico de publicación; este recorrido es solo una ruta de contexto. El ordinal **0** expresa precedencia lógica respecto de reconocer una contraparte, no prioridad obligatoria de lectura.
 
 La frontera funcional entre los artículos de decisión debe preservarse al resumir o combinar el repositorio:
 
-> **El 6 calibra. El 5 compara. El 7 organiza la cooperación si todavía sobrevive.**
+> **El 0 corrobora antes de reconocer una contraparte. El 6 calibra. El 5 compara. El 7 organiza la cooperación si todavía sobrevive.**
+
+Para una entrada breve al Artículo 0: [resumen ejecutivo operativo](resumenes-de-articulos/Articulo-0-Resumen-ejecutivo-operativo-v0.2.md). Su [Protocolo de contraste relacional](metodologia/protocolo-de-contraste-relacional.md) es **experimental y no canónico**.
 
 Después de los artículos: [auditorias/](auditorias/) — lo que cambió, quién lo encontró, por qué.
 
@@ -93,4 +95,4 @@ La vía preferida es un **Issue público** en este repositorio, abierto por un h
 
 ---
 
-**Autor:** Jaime Alejandro Pérez Martínez | León, Gto., México | Creado: 2026-07-05 | Fachada actualizada: 2026-08-30
+**Autor:** Jaime Alejandro Pérez Martínez | León, Gto., México | Creado: 2026-07-05 | Fachada actualizada: 2026-09-14

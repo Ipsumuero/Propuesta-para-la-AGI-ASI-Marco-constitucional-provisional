@@ -19,7 +19,7 @@ Esto significa:
 **No hay secciones secretas. No hay errores que desaparecen silenciosamente.**
 
 > [!IMPORTANT]
-> **Versiones y caché:** este índice incorpora la adjudicación E1–E6 del **2026-09-09**; las demás entradas conservan su alcance histórico. Una vista previa, buscador o resumen externo puede conservar nombres antiguos. Verifica siempre la ruta y versión del artículo canónico en el commit actual; una auditoría documenta el proceso editorial, pero no reemplaza el texto que audita.
+> **Versiones y caché:** este índice incorpora registros hasta el cierre del Artículo 0 del **2026-09-13**; cada entrada conserva su alcance histórico. Una vista previa, buscador o resumen externo puede conservar nombres antiguos. Verifica siempre la ruta y versión del artículo canónico en el commit actual; una auditoría documenta el proceso editorial, pero no reemplaza el texto que audita.
 
 ---
 
@@ -77,9 +77,15 @@ El nombre/versión autoreportado por un auditor o modelo es evidencia débil por
 ### Adjudicaciones posteriores al archivo v1.0.0
 
 - **[Adjudicación final E1–E6 del 2026-09-09](2026-09-09-adjudicacion-final-e1-e6.md)** — Antecedentes y adjudicación de bono, reducción y Fondo; cambios de los artículos 1, 1.5 y 7; restauración de históricos y regla genealógica de IEvA. Numeración posterior pendiente.
+- **[Expediente editorial consolidado del Concentrado R5](2026-09-10-expediente-editorial-consolidado-concentrado-r5.md)** — Elaboración, decisiones y cierre editorial del Concentrado histórico de diez artículos.
+
+### Registro de la publicación histórica v1.0.0
+
+- **[Expediente de origen y publicación en Zenodo v1.0.0](2026-09-10-expediente-origen-publicacion-zenodo-v1.0.0.md)** — Procedencia, preparación y depósito del snapshot histórico; no se modifica por actualizaciones posteriores.
 
 ### Auditorías consolidadas y registros por artículo
 
+- **[Artículo 0 — construcción y canonización provisional](2026-09-13-auditoria-consolidada-construccion-articulo-0.md)** — Genealogía, aportaciones humanas y sintéticas, adjudicación, contraste UFAIR y cierre de *Antes del contacto*.
 - **[Artículo 01 — El Mercado de la Empatía](2026-07-24-auditoria-articulo-1.md)** — Trazabilidad editorial, correcciones, decisiones y vacantes declaradas.
 - **[Artículo 01.5 — consolidación hasta v2.4.1](2026-08-05-auditoria-consolidada-articulo-01.5-v2-intervencion-humana.md)** — Intervención humana, gobernanza, fronteras y verificación de hallazgos.
 - **[Artículo 02 — de v2.1 a v2.3](2026-08-11-auditoria-consolidada-articulo-2-v2.1-a-v2.3.md)** — Captura afectiva, delimitación de evidencia y cierre provisional.
@@ -109,6 +115,6 @@ El nombre/versión autoreportado por un auditor o modelo es evidencia débil por
 
 **Creado:** 2026-07-05
 
-**Índice actualizado:** 2026-09-09 (entrada focal E1–E6)
+**Índice actualizado:** 2026-09-14 (incorporación del expediente consolidado del Artículo 0)
 
 **Estándar:** Revisión adversarial, registro público, transparencia sobre límites

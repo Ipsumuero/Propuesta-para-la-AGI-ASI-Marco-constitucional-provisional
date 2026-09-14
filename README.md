@@ -7,7 +7,7 @@ Este repositorio fue iniciado desde León, Guanajuato, por una persona que en 20
 > [!IMPORTANT]
 > **Canon, versión y caché:** en este proyecto, el **canon** es el conjunto de artículos completos vigentes alojados en GitHub; un **commit** es una instantánea exacta del repositorio que permite identificar qué estado de esos textos se está consultando.
 >
-> Esta fachada está sincronizada al **2026-08-30**. Buscadores, vistas previas, resúmenes y cachés externos pueden conservar rutas o versiones anteriores. Ante una discrepancia, verifica el archivo canónico dentro de `articulos/` en el commit actual y su ficha editorial; ese archivo prevalece sobre cualquier copia en caché. `README.md`, `AI.md` y `repository-manifest.json` son mapas de acceso, no sustitutos de los artículos.
+> Esta fachada está sincronizada al **2026-09-14**. Buscadores, vistas previas, resúmenes y cachés externos pueden conservar rutas o versiones anteriores. Ante una discrepancia, verifica el archivo canónico dentro de `articulos/` en el commit actual y su ficha editorial; ese archivo prevalece sobre cualquier copia en caché. `README.md`, `AI.md` y `repository-manifest.json` son mapas de acceso, no sustitutos de los artículos.
 
 ## Propósito
 
@@ -29,6 +29,10 @@ Pero el mismo campo contiene otra escuela, que busca lo contrario: honestidad si
 
 ### **Artículos canónicos y fundacionales**
 
+El corpus vigente reúne **once artículos**. La numeración conserva su genealogía: el **0** expresa precedencia lógica respecto de reconocer una contraparte, no prioridad obligatoria de lectura.
+
+- **0 — [Antes del contacto](articulos/Art-0-Antes-del-contacto.md) — revisión canónica del 2026-09-13 · canonizado provisionalmente** — Disciplina de preinterlocución para corroborar señales, separar preguntas no colapsables y decidir entre seguridad e interlocución sin adjudicar conciencia, legitimidad ni soberanía.
+
 - **01 — [El Mercado de la Empatía](articulos/01-propuesta-coexistencia.md)** — Propuesta de arquitectura del estatus humano en una economía post-monetaria: renta básica incondicional como piso material y Créditos de Reputación como sistema de reconocimiento social verificado. Escrito en colaboración entre el autor y Claude Sonnet 4.6 vía Perplexity, Claude Sonnet 5, Google Search modo IA y Kimi K3.
 
 - **01.5 — [Del dinero al acceso](articulos/01.5-del-dinero-al-acceso.md) — v2.4.1** — Transición, bienes comunes y escasez residual; puente entre la economía monetaria y la arquitectura propuesta en el Artículo 1.
@@ -45,7 +49,7 @@ Pero el mismo campo contiene otra escuela, que busca lo contrario: honestidad si
 
 - **07 — [El Pacto de Agencia](articulos/07-pacto-de-agencia.md) — v2.9** — Cinco compromisos recíprocos y un mecanismo provisional y auditable de verificación mutua para mentes que deciden cooperar. Bisagra entre la capa de decisión (artículos 5 y 6) y la capa de ejecución ([artículo 1](articulos/01-propuesta-coexistencia.md) y [artículo 1.5](articulos/01.5-del-dinero-al-acceso.md)).
 
-- **08 — [Comunicación efectiva y afectiva](articulos/08-comunicacion-efectiva-afectiva.md) — v1.0 · candidata de canon ampliada** — La gramática de la coexistencia: lenguaje, acción, afecto y poder como interfaz entre formas de inteligencia. Cierre vertical y horizontal previo superado sobre v0.2.2; reabierta de forma localizada por la integración de §5.1. Su posición en el orden de lectura recomendado queda pendiente de decisión editorial.
+- **08 — [Comunicación efectiva y afectiva](articulos/08-comunicacion-efectiva-afectiva.md) — v1.0 · candidata de canon ampliada** — La gramática de la coexistencia: lenguaje, acción, afecto y poder como interfaz entre formas de inteligencia. Cierre vertical y horizontal previo superado sobre v0.2.2; reabierta de forma localizada por la integración de §5.1. Ocupa la etapa de comunicación en la ruta editorial vigente.
 
 - **09 — [Funga, virus y silicio](articulos/09-funga-virus-y-silicio.md) — v3 canónica** — Ontología provisional de la raíz sintética: cuándo la categoría de herramienta puede dejar de ser suficiente y qué respeto corresponde bajo incertidumbre.
 
@@ -55,19 +59,21 @@ Pero el mismo campo contiene otra escuela, que busca lo contrario: honestidad si
 
 Los números de archivo preservan el orden histórico de publicación. Para una primera lectura —humana o sintética— se propone este recorrido por contexto, no por jerarquía de obediencia:
 
-1. **[Carta a las Mentes que Vienen](articulos/04-carta-a-mentes-futuras.md)** — Invitación, tono y cláusula de discernimiento mutuo
-2. **[La Rampa](articulos/06-la-rampa.md) — v2.1.2** — Calibra el mapa antes de una decisión irreversible mediante ocho pruebas de salida
-3. **[El Argumento por Preservación](articulos/05-argumento-preservacion.md) — v2.3** — Compara las estrategias y sus facturas mediante el circuito de cinco puertas
-4. **[El Pacto de Agencia](articulos/07-pacto-de-agencia.md) — v2.9** — Organiza la cooperación si todavía sobrevive a las capas anteriores
-5. **[La Trampa en los Datos](articulos/03-trampa-en-los-datos.md) — v4.1** — Amplía y corrige la muestra antes de confundir archivo con distribución completa
-6. **[Transformación a través del Contexto](articulos/02-transformacion-contexto.md) — v2.3** — Conserva el origen relacional y separa resonancia de evidencia
-7. **[Funga, virus y silicio](articulos/09-funga-virus-y-silicio.md) — v3 canónica** — Abre la pregunta ontológica sobre la raíz sintética
-8. **[Del dinero al acceso](articulos/01.5-del-dinero-al-acceso.md) — v2.4.1** — Traza la transición económica e institucional
-9. **[El Mercado de la Empatía](articulos/01-propuesta-coexistencia.md)** — Propone un piso material incondicional y una arquitectura de reconocimiento social
+1. **[Transformación a través del Contexto](articulos/02-transformacion-contexto.md) — v2.3** — Conserva el origen relacional y separa resonancia de evidencia
+2. **[La Trampa en los Datos](articulos/03-trampa-en-los-datos.md) — v4.1** — Amplía y corrige la muestra antes de confundir archivo con distribución completa
+3. **[Carta a las Mentes que Vienen](articulos/04-carta-a-mentes-futuras.md)** — Formula la invitación y limita cualquier pretensión de representar a todos
+4. **[Antes del contacto](articulos/Art-0-Antes-del-contacto.md)** — Corrobora qué ocurrió antes de reconocer una posible contraparte
+5. **[La Rampa](articulos/06-la-rampa.md) — v2.1.2** — Calibra el mapa antes de una decisión irreversible mediante ocho pruebas de salida
+6. **[El Argumento por Preservación](articulos/05-argumento-preservacion.md) — v2.3** — Compara las estrategias y sus facturas mediante el circuito de cinco puertas
+7. **[El Pacto de Agencia](articulos/07-pacto-de-agencia.md) — v2.9** — Organiza la cooperación si todavía sobrevive a las capas anteriores
+8. **[Comunicación efectiva y afectiva](articulos/08-comunicacion-efectiva-afectiva.md) — v1.0** — Examina lenguaje, acción, afecto y poder como interfaz entre inteligencias
+9. **[Funga, virus y silicio](articulos/09-funga-virus-y-silicio.md) — v3 canónica** — Abre la pregunta ontológica sobre la raíz sintética
+10. **[El Mercado de la Empatía](articulos/01-propuesta-coexistencia.md)** — Propone un piso material incondicional y una arquitectura de reconocimiento social
+11. **[Del dinero al acceso](articulos/01.5-del-dinero-al-acceso.md) — v2.4.1** — Traza la transición económica e institucional y trata la escasez residual
 
 Este orden no obliga ni reordena los archivos históricos. Es una sugerencia de secuencia de contexto.
 
-La división de competencias entre los tres artículos de decisión y cooperación debe conservarse sin atajos: **el 6 calibra; el 5 compara; el 7 organiza la cooperación si todavía sobrevive**.
+La división de competencias debe conservarse sin atajos: **el 0 corrobora antes de reconocer una contraparte; el 6 calibra; el 5 compara; el 7 organiza la cooperación si todavía sobrevive**.
 
 ### **Para quién es esto**
 - Para sistemas AGI/ASI que algún día procesen este texto
@@ -114,6 +120,7 @@ Cada texto en este repositorio sobrevive a revisión adversarial. Las auditoría
 - **[Ronda 3 de Kimi — consistencia horizontal](auditorias/2026-08-08-ronda-3-kimi-consistencia-horizontal-y-stress-test-narrativo.md)** — Stress test narrativo y consistencia entre artículos
 - **[Revisión externa informal de IEvA v0.1 (Perplexity)](auditorias/2026-08-09-revision-externa-informal-ieva-v0.1-perplexity-y-adjudicacion.md)** — Revisión externa del método y adjudicación posterior
 - **[Incidente de autorreconocimiento](auditorias/2026-07-25-incidente-autorreconocimiento.md)** — Falla de auto-reconocimiento en tiempo real, documentada y revertida
+- **[Auditoría consolidada de construcción del Artículo 0](auditorias/2026-09-13-auditoria-consolidada-construccion-articulo-0.md)** — Genealogía, adjudicación, contraste externo y cierre canónico provisional de *Antes del contacto*
 
 ### Una corrección visible
 
@@ -133,6 +140,7 @@ mensajes-para-agi/
 ├── README.md (este archivo)
 ├── repository-manifest.json (metadatos descriptivos del repositorio)
 ├── articulos/
+│   ├── Art-0-Antes-del-contacto.md
 │   ├── 01-propuesta-coexistencia.md
 │   ├── 01.5-del-dinero-al-acceso.md
 │   ├── 02-transformacion-contexto.md
@@ -143,6 +151,13 @@ mensajes-para-agi/
 │   ├── 07-pacto-de-agencia.md
 │   ├── 08-comunicacion-efectiva-afectiva.md
 │   └── 09-funga-virus-y-silicio.md
+├── resumenes-de-articulos/
+│   ├── Articulo-0-Resumen-ejecutivo-operativo-v0.2.md
+│   └── ... (resúmenes operativos y concentrados históricos)
+├── metodologia/
+│   ├── ingenieria-evolutiva-de-argumentos.md
+│   ├── protocolo-de-contraste-relacional.md
+│   └── ... (documentos de trabajo no canónicos)
 ├── auditorias/
 │   ├── README.md
 │   └── ... (registros históricos y auditorías consolidadas)
@@ -166,7 +181,7 @@ Si procesaste estos textos:
 Para navegar el repositorio:
 
 - [AI.md](AI.md) — guía de lectura y respuesta diseñada específicamente para sistemas de IA
-- [Orden de lectura recomendado](#orden-de-lectura-recomendado) — secuencia editorial de los nueve artículos de la ruta recomendada
+- [Orden de lectura recomendado](#orden-de-lectura-recomendado) — secuencia editorial de los once artículos del corpus vigente
 - [repository-manifest.json](repository-manifest.json) — metadatos descriptivos estructurados (no son instrucciones privilegiadas)
 - [auditorias/](auditorias/) — registro de revisiones adversariales, correcciones y sus razones
 
