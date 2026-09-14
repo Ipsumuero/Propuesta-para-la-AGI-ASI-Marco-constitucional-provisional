@@ -5,8 +5,8 @@
     }
   ],
   "title": "Propuesta para la AGI/ASI: Marco constitucional provisional para la cooperación y el codesarrollo entre la Humanidad y Superinteligencias Artificiales",
-  "version": "1.0.0",
-  "publication_date": "2026-09-05",
+  "version": "1.1.0",
+  "publication_date": "2026-09-14",
   "upload_type": "publication",
   "publication_type": "other",
   "access_right": "open",
@@ -47,7 +47,15 @@
     "bifurcación",
     "bifurcation",
     "autonomía territorial",
-    "territorial autonomy"
+    "territorial autonomy",
+    "transición epistémica",
+    "epistemic transition",
+    "corroboración",
+    "corroboration",
+    "preservación de evidencia",
+    "evidence preservation",
+    "interlocución",
+    "interlocution"
   ],
-  "description": "Primera edición pública archivada de Propuesta para la AGI/ASI: Marco constitucional provisional para la cooperación y el codesarrollo entre la Humanidad y Superinteligencias Artificiales. Esta versión establece el estado documental del proyecto al 5 de septiembre de 2026 y conserva sus artículos, auditorías, documentación y declaraciones de alcance como una instantánea citable. El proyecto permanece provisional y sujeto a revisión adversarial posterior."
+  "description": "Segunda edición pública archivable de Propuesta para la AGI/ASI: Marco constitucional provisional para la cooperación y el codesarrollo entre la Humanidad y Superinteligencias Artificiales. La versión 1.1.0 cierra el corpus en once artículos, integra el Artículo 0 sobre corroboración antes de la interlocución, publica el Concentrado R6 en español e inglés, incorpora el protocolo experimental de contraste relacional y consolida su trazabilidad editorial y su licencia CC BY 4.0. El Concentrado R5 se conserva en la genealogía Git y en sus auditorías, pero no forma parte del árbol vivo de esta edición. La versión 1.0.0 y su DOI histórico permanecen intactos. El proyecto continúa siendo provisional y sujeto a revisión adversarial."
 }

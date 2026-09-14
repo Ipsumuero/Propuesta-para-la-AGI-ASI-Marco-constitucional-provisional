@@ -76,6 +76,7 @@ El nombre/versión autoreportado por un auditor o modelo es evidencia débil por
 
 ### Cierre editorial R6 y preparación de versión
 
+- **[Verificación final de metadatos y árbol vivo para v1.1.0](2026-09-14-verificacion-final-metadatos-v1.1.0.md)** — Retiro forward-only de R5, validación oficial de CFF y concordancia de metadatos previa al tag y a Zenodo.
 - **[Auditoría editorial y general de cierre del Concentrado R6](2026-09-14-auditoria-editorial-cierre-concentrado-r6.md)** — Inventario, licencia, validación estructural, regresión y compuerta previa al release `v1.1.0`.
 - **[Antecedentes públicos en Medium y origen del proyecto](2026-09-14-antecedentes-publicos-medium-y-origen-del-proyecto.md)** — Registro de procedencia pública anterior y relación con la genealogía del repositorio.
 
@@ -120,6 +121,6 @@ El nombre/versión autoreportado por un auditor o modelo es evidencia débil por
 
 **Creado:** 2026-07-05
 
-**Índice actualizado:** 2026-09-14 (cierre editorial R6 y preparación documental de `v1.1.0`)
+**Índice actualizado:** 2026-09-14 (verificación final de metadatos y árbol vivo para `v1.1.0`)
 
 **Estándar:** Revisión adversarial, registro público, transparencia sobre límites

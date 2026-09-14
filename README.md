@@ -156,7 +156,7 @@ Propuesta-para-la-AGI-ASI-Marco-constitucional-provisional/
 │   ├── Articulo-0-Resumen-ejecutivo-operativo-v0.2.md
 │   ├── Condiciones-para-la-coexistencia-Concentrado-once-articulos-R6.md
 │   ├── Conditions-for-Coexistence-Digest-Eleven-Articles-R6.md
-│   └── ... (resúmenes operativos y concentrados históricos)
+│   └── ... (resúmenes operativos por artículo)
 ├── metodologia/
 │   ├── ingenieria-evolutiva-de-argumentos.md
 │   ├── protocolo-de-contraste-relacional.md

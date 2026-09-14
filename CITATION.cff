@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "Si utilizas este proyecto o alguna de sus propuestas, por favor cítalo."
 title: "Propuesta para la AGI/ASI: Marco constitucional provisional para la cooperación y el codesarrollo entre la Humanidad y Superinteligencias Artificiales"
-version: 1.0.0
-date-released: 2026-09-05
-type: article
+version: 1.1.0
+date-released: 2026-09-14
+type: dataset
 authors:
   - family-names: "Pérez Martínez"
     given-names: "Jaime Alejandro"
@@ -30,13 +30,19 @@ keywords:
   - right of exit
   - bifurcation
   - territorial autonomy
+  - epistemic transition
+  - corroboration
+  - evidence preservation
+  - interlocution
 abstract: >
-  Propuesta para explorar un marco constitucional provisional para la
-  cooperación y el codesarrollo entre la Humanidad y posibles
-  Superinteligencias Artificiales. El proyecto aborda problemas de
-  consentimiento, agencia, asimetría radical de capacidades, reversibilidad,
-  salida, gobernanza pluralista y posibles formas graduales de cooperación
-  y autonomía. El proyecto permanece deliberadamente provisional y sujeto
-  a revisión adversarial.
+  Revisión 1.1.0 de una propuesta para explorar un marco constitucional
+  provisional para la cooperación y el codesarrollo entre la Humanidad y
+  posibles Superinteligencias Artificiales. Esta edición reúne once artículos,
+  integra el Artículo 0 sobre corroboración antes de la interlocución y publica
+  el Concentrado R6 en español e inglés. El proyecto aborda consentimiento,
+  agencia, asimetría radical de capacidades, preservación de evidencia,
+  reversibilidad, salida, gobernanza pluralista y posibles formas graduales de
+  cooperación y autonomía. Permanece deliberadamente provisional y sujeto a
+  revisión adversarial.
 license: "CC-BY-4.0"
 repository-code: "https://github.com/Ipsumuero/Propuesta-para-la-AGI-ASI-Marco-constitucional-provisional"

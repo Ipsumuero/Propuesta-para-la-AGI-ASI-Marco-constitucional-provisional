@@ -21,8 +21,6 @@ Desde la incorporación del Artículo 0, el corpus vigente reúne **once artícu
 - **[Condiciones para la coexistencia · Concentrado de los once artículos · Revisión 6](./Condiciones-para-la-coexistencia-Concentrado-once-articulos-R6.md)** — edición española de referencia.
 - **[Conditions for Coexistence · Digest of the Eleven Articles · Revision 6](./Conditions-for-Coexistence-Digest-Eleven-Articles-R6.md)** — traducción inglesa revisada; ante divergencias, prevalece el texto español.
 
-La edición anterior permanece disponible como antecedente histórico: **[Condiciones para la coexistencia · Concentrado de los diez artículos · Revisión 5](./Condiciones-para-la-coexistencia-Concentrado-diez-articulos-R5.md)**. R5 cubre el estado de diez artículos declarado dentro del propio archivo y **no se retitula ni se reescribe retroactivamente** para incorporar el Artículo 0.
-
 El Concentrado R6:
 
 - presenta el problema general y el recorrido de la propuesta;
@@ -35,7 +33,7 @@ El Concentrado R6:
 
 La numeración de los artículos conserva su historia de construcción. El orden del Concentrado puede ser distinto porque sigue una secuencia argumental: **relación → muestra → invitación → corroboración → calibración → decisión → pacto → comunicación → ubicación ontológica y ecológica → organización social → economía**.
 
-La ruta editorial del corpus de once artículos es: **2 → 3 → 4 → 0 → 6 → 5 → 7 → 8 → 9 → 1 → 1.5**. Esta ruta no altera la numeración histórica ni modifica retroactivamente el contenido o el commit fuente de R5.
+La ruta editorial del corpus de once artículos es: **2 → 3 → 4 → 0 → 6 → 5 → 7 → 8 → 9 → 1 → 1.5**. Esta ruta no altera la numeración histórica del canon.
 
 La ausencia de un argumento, objeción, antecedente o detalle operativo en el Concentrado **no implica que esté ausente del corpus ni que haya sido resuelto**.
 
